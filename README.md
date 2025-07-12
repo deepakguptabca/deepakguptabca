@@ -1,6 +1,7 @@
+<div style:"font-size: 10px">
 # 💫 About Me:
 # A Software Engineer from India 🇮🇳:<br><br>✨About ME.<br>- 👯 I’m looking to collaborate on any Web Project<br><br>- 💬 Ask me about DSA, Web,ML.<br><br>- 📫 How to reach me: **deepakgupta2312005@gmail.com**<br><br>- ⚡ Fun fact **Doesn't Exist!!**<br><br>- 🐧 A linux Enthusiast(Fedora user)!!<br><br>"Those who are crazy enough to think they can change the world are the ones who do."—Think of myself to be one of those<br>I like experimenting with new technologies, building projects, and occassionally joining hackathons. ✨
-
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/deepakgupta0201) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepakguptabca) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakguptabca) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Deep_Byte) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@deepakguptabca) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepakgupta2312005@gmail.com) 
