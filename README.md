@@ -1,5 +1,5 @@
 <div style:"font-size: 10px">
-# A Software Engineer from India 🇮🇳:<br><br>✨About ME.<br><br>- 👯 I’m looking to collaborate on any Web Project<br><br>- 💬 Ask me about DSA, Web,ML.<br><br>- 📫 How to reach me: **deepakgupta2312005@gmail.com**<br><br>- ⚡ Fun fact **Doesn't Exist!!**<br><br>- 🐧 A linux Enthusiast(Fedora user)!!<br><br>"Those who are crazy enough to think they can change the world are the ones who do."—Think of myself to be one of those<br>I like experimenting with new technologies, building projects, and occassionally joining hackathons. ✨
+# A Full Stack Developer from India 🇮🇳:<br><br>✨About ME.<br><br>- 👯 I’m looking to collaborate on any Web Project<br><br>- 💬 Ask me about DSA, Web,ML.<br><br>- 📫 How to reach me: **deepakgupta2312005@gmail.com**<br><br>- ⚡ Fun fact **Doesn't Exist!!**<br><br>- 🐧 A linux Enthusiast(Fedora user)!!<br><br>"Those who are crazy enough to think they can change the world are the ones who do."—Think of myself to be one of those<br>I like experimenting with new technologies, building projects, and occassionally joining hackathons. ✨
 </div>
 
 ## 🌐 Socials:
